@@ -4,7 +4,7 @@
 * Sass is a scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
 * Sass extends CSS by providing several mechanisms available in more traditional programming languages, particularly object-oriented languages, but that are not available to CSS3 itself.
 
-Click [HERE](https://en.wikipedia.org/wiki/Sass_(stylesheet_language) for more information.
+Click [HERE](http://sass-lang.com/) for more information.
 
 ## Compile SASS to CSS
 * From the command line interface we can compile de Sass code doing:
